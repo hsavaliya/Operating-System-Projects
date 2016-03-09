@@ -1,0 +1,1 @@
+cmd_/home/hetalsavaliya/lkm/intrpt.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.35-19-generic/scripts/module-common.lds --build-id -o /home/hetalsavaliya/lkm/intrpt.ko /home/hetalsavaliya/lkm/intrpt.o /home/hetalsavaliya/lkm/intrpt.mod.o

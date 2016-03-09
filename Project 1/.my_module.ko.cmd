@@ -1,0 +1,1 @@
+cmd_/home/hetalsavaliya/lkm/my_module.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.35-19-generic/scripts/module-common.lds --build-id -o /home/hetalsavaliya/lkm/my_module.ko /home/hetalsavaliya/lkm/my_module.o /home/hetalsavaliya/lkm/my_module.mod.o
